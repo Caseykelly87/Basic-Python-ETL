@@ -1,0 +1,2 @@
+requests       # For making API requests
+pandas         # For data manipulation
